@@ -7,16 +7,19 @@ Diabetes Prediction:
 Users can input relevant medical data such as age, BMI, blood pressure, etc.
 The system uses a trained machine learning model to predict the likelihood of diabetes.
 Users receive a risk score along with guidance on potential next steps.
+
 Brain Stroke Prediction:
 
 Users can input relevant health information such as age, family history, smoking habits, etc.
 The system utilizes a machine learning model to predict the risk of a brain stroke.
 Users receive a risk assessment and recommendations for reducing the risk.
+
 Common Diseases Prediction:
 
 Users can enter symptoms they are experiencing.
 The system employs a machine learning model to predict possible common diseases.
 Users receive information about the predicted diseases, precautions to take, and the type of doctor they should consult.
+
 Brain Tumor Prediction using MRI Image:
 
 Users can upload MRI images of the brain.
